@@ -1,0 +1,19 @@
+.ntf {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+}
+
+.bHome {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    text-decoration: none;
+}
+
+.bHome:hover {
+    font-weight: 600;
+    text-decoration: underline;
+}
